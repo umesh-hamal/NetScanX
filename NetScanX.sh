@@ -77,5 +77,5 @@ if [ -f "$dhcp_lease_file_location" ]; then
 fi
 
 
-echo -e "$RED\tThis network scanner script is provided free of charge by Red Haired!/Github:Umeshhamal967\n"
+echo -e "$RED\tThis network scanner script is provided free of charge by Red Haired!/Github:umesh-hamal\n"
 
