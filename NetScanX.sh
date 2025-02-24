@@ -78,4 +78,4 @@ fi
 
 
 echo -e "$RED\tThis network scanner script is provided free of charge by Red Haired!/Github:umesh-hamal\n"
-
+print("Hello")
